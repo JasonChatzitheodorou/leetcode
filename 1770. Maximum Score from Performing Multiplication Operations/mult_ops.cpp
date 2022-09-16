@@ -43,7 +43,6 @@ public:
 
         return M[0][0];
     }
-
     int maximumScore_memoization(std::vector<int>& nums, std::vector<int>& multipliers, int start = 0, int end = 0)
     {
         // Initialize bool array the first time
