@@ -1,3 +1,8 @@
+# Only files with extension allowed
+*
+!/**/
+!*.*
+
 # Prerequisites
 *.d
 
